@@ -1,0 +1,54 @@
+
+ h1{
+  text-align: center;
+  color: white;
+  font-size: 150px;
+  text-shadow: 2px 2px beige;
+
+ } 
+.box
+{
+    border: 3px none;
+    width: 40%;
+border-radius:10%;
+
+}
+
+body{
+    background-image: url(back1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.icon{
+    font-size: 50px;
+    color: white;
+
+}
+
+
+.input-field{
+    font-size: 80px;
+    border: 5px solid gray;
+    
+}
+input[type="button"]{
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+a{
+  font-size: 80px;
+  padding: 2px;
+  border: 5px solid gray;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+img{
+    border-radius: 50%;
+    border: 5px solid snow;
+    height: 350px;
+    width: 350px;
+}

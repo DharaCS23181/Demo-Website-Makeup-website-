@@ -1,6 +1,6 @@
 # 💄 Makeup Website
 
-Welcome to my Makeup Website! This is a simple and beautiful website created using **HTML** and **CSS** to showcase makeup and skincare products. It is designed for learning, practicing web development, and sharing beauty ideas online.
+Welcome to my First ever Frontend Web Project-Makeup Website! This is a simple and beautiful website created using **HTML** and **CSS** to showcase makeup and skincare products. It is designed for learning, practicing web development, and sharing beauty ideas online.
 
 ## 🌟 Features
 
